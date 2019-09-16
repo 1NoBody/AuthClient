@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/image/wBase/back.png</file>
+        <file>resource/image/wBase/close.png</file>
+        <file>resource/image/wBase/home.png</file>
+        <file>resource/image/wBase/max.png</file>
+        <file>resource/image/wBase/min.png</file>
+        <file>resource/image/wBase/percenter.png</file>
+        <file>resource/image/wHomePage/auth.png</file>
+        <file>resource/image/wAuth/IDcard.png</file>
+        <file>resource/image/wAuth/QRcode.png</file>
+        <file>resource/image/wAuth/Text.png</file>
+        <file>resource/image/wMachineCode/gatepass.png</file>
+        <file>resource/image/wMachineCode/passport.png</file>
+        <file>resource/image/wAuthSuc/ok.png</file>
+        <file>resource/image/wAuthFail/fail.png</file>
+        <file>resource/image/wTextInput/arrow.png</file>
+    </qresource>
+</RCC>
